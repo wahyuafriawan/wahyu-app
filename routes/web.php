@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\HomeController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -22,3 +23,5 @@ Route::get('/0006contact', function () {
 Route::get('/0006artikel', function () {
     return view('0006artikel');
 });
+
+Route::get('/0006home', [HomeController::class, 'index']);
