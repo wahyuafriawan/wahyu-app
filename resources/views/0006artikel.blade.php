@@ -24,9 +24,9 @@
                 <h3>Menu</h3>
                         
                 <ul>
-					<li><a href="home">Home</a></li>
-                    <li><a href="artikel">Article</a></li>
-                    <li><a href="contact">Contact Us</a></li>
+					<li><a href="0006home">Home</a></li>
+                    <li><a href="0006artikel">Article</a></li>
+                    <li><a href="0006contact">Contact Us</a></li>
                 </ul>
 </div>
                 
