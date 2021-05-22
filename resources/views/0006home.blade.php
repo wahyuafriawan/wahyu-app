@@ -43,8 +43,7 @@
         <div id="content_top"></div>
         <div id="content_main">
         
-        	<h2><img src="{{url('img/20120308130054_33233.jpg')}}" width="655" height="340" /><br />
-        	  alhamdulillah</p></h2>
+        	<img src="{{url('img/20120308130054_33233.jpg')}}" width="655" height="340" />
 </div>
         <div id="content_bottom"></div>
             
